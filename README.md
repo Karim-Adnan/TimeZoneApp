@@ -1,4 +1,4 @@
-# timezoneapp
+# TimeZone App
 
 A new Flutter application.
 
